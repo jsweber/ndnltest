@@ -1,5 +1,14 @@
 {
   "pages": [
     "pages/classic/classic"
-  ]
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffff00",
+    "navigationBarTitleText": "ndnl——demo",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "default",
+    "backgroundColor": "red",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  }
 }

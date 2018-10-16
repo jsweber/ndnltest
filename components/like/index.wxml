@@ -1,2 +1,5 @@
-<!--components/like/index.wxml-->
-<text>components/like/index.wxml</text>
+<view class='container' bind:tap="likeHandler">
+  <image src="{{like ? activeImg : defaultImg}}"></image>
+  <text>{{count}}</text>
+</view>
+

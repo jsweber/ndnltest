@@ -1,2 +1,3 @@
 <!--pages/classic/classic.wxml-->
 <text>pages/classic/classic.wxmlhello</text>
+<like-cmp count="19"></like-cmp>

@@ -1,1 +1,21 @@
 /* components/like/index.wxss */
+.container{
+  display: inline-flex;
+  flex-direction: row;
+  padding:10rpx;
+}
+
+.container text{
+  font-size: 24rpx;
+  line-height: 24px;
+  height: 24rpx;
+  position: relative;
+  bottom:20rpx;
+  left:5rpx;
+  vertical-align: top;
+}
+
+.container image{
+  width: 32rpx;
+  height: 28rpx;
+}

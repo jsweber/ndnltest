@@ -5,10 +5,12 @@ Component({
    */
   properties: {
     like: {
-      type: Boolean
+      type: Boolean,
+      value: false
     },
     count: {
-      type: Number
+      type: Number,
+      value: 0
     }
   },
 
